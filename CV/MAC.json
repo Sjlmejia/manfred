@@ -1,0 +1,148 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Mejía",
+      "title": "Frontend Developer",
+      "description": "TBD"
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ioet ltd"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2015-05-01",
+            "finishDate": "2023-08-31",
+            "challenges": [
+              {
+                "description": "working as Frontend Developer in application for network analysis with graps, tables"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Noggalito"
+        },
+        "roles": [
+          {
+            "name": "Development",
+            "startDate": "2015-01-01",
+            "finishDate": "2015-04-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingenieria en sistemas",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Universidad Nacional de LOja"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jorge-mejia-michay",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Sjlmejia",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jorgemejia2304@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "980287356",
+          "countryCode": "+593"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaria construir nuevos requerimientos aprender de mis compañeros."
+  }
+}
