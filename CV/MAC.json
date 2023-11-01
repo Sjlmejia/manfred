@@ -10,7 +10,17 @@
       "surnames": "Mejía",
       "title": "Frontend Developer",
       "description": "TBD"
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jorge-mejia-michay"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Sjlmejia"
+      }
+    ]
   },
   "experience": {
     "jobs": [
