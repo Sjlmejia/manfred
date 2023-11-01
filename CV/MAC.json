@@ -153,6 +153,20 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaria construir nuevos requerimientos aprender de mis compañeros."
   }
 }
