@@ -1,15 +1,19 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Jorge",
       "surnames": "Mejía",
       "title": "Frontend Developer",
-      "description": "TBD"
+      "description": "TBD",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/430af6b5-95b1-4e23-abd4-46dad5a231e2_yo.jpeg",
+        "alt": "yo.jpeg"
+      }
     },
     "relevantLinks": [
       {
@@ -64,6 +68,7 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       }
     ],
@@ -77,12 +82,6 @@
       {
         "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
           "type": "technology"
         }
       },
@@ -137,12 +136,6 @@
       ],
       "contactMails": [
         "jorgemejia2304@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "980287356",
-          "countryCode": "+593"
-        }
       ]
     },
     "preferences": {
